@@ -19,4 +19,4 @@ Os arquivos preservam o código submetido na conta `1saqux`, com uma pasta por e
 
 Estrutura: `solutions/elixir/<exercício>/<iteração>/lib/<arquivo>.ex`.
 
-Backup das soluções submetidas, realizado em 8 de novembro de 2026. Os testes e outros arquivos dos enunciados não estão incluídos.
+
