@@ -6,12 +6,17 @@ Os arquivos preservam o código submetido na conta `1saqux`, com uma pasta por e
 
 | Exercício | Iterações salvas |
 | --- | --- |
-| Lasagna | 1 |
-| Pacman Rules | 1 |
-| Freelancer Rates | 1 |
-| Language List | 1 |
-| Kitchen Calculator | 1 |
-| High Score | 1, 2 |
+| [Hello World](solutions/elixir/hello-world) | 1 |
+| [Lasagna](solutions/elixir/lasagna) | 1 |
+| [Freelancer Rates](solutions/elixir/freelancer-rates) | 1 |
+| [Pacman Rules](solutions/elixir/pacman-rules) | 1 |
+| [Language List](solutions/elixir/language-list) | 1 |
+| [High Score](solutions/elixir/high-score) | 1, 2 |
+| [Kitchen Calculator](solutions/elixir/kitchen-calculator) | 1 |
+| [Guessing Game](solutions/elixir/guessing-game) | 1 |
+| [Leap](solutions/elixir/leap) | 1 |
+| [Bird Count](solutions/elixir/bird-count) | 1 |
 
 Estrutura: `solutions/elixir/<exercício>/<iteração>/lib/<arquivo>.ex`.
 
+Backup das soluções submetidas, realizado em 8 de novembro de 2026. Os testes e outros arquivos dos enunciados não estão incluídos.
